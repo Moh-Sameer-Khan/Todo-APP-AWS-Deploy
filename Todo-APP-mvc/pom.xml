@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.geekster</groupId>
-	<artifactId>Todo-app</artifactId>
+	<artifactId>Todo-app-mvc</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Todo-app</name>
-	<description>TODO  app to understand annotations and API</description>
+	<description>TODO  app mvc Architecture</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
